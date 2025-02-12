@@ -1,0 +1,6 @@
+print("welcome to the brandname generator")
+p=input("in which city did you grew up in?")
+print(p)
+k=input("what is your pet name?")
+print(k)
+print("your brand name is",p,k)
